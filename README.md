@@ -1,14 +1,16 @@
 👉 Being a performance-driven Software Engineer, I am part of the team that has developed multiple Award Winning IT Solutions for the US Healthcare sector and significantly contributed to positioning the organization at the top. CureMD received US Healthcare and PASHA Awards for Excellence in eHealth. 
 
-My eleven-year IT career is associated with CureMD. I have successfully led 30+ innovative cloud-based e-Health Care Projects, including architecture, features, compliance standards, and delivered models that solved complex real-world healthcare problems. 
+My thirteen-year IT career is associated with several organizations. I have successfully led 40+ innovative cloud-based e-Health Care Projects, including architecture, features, compliance standards, and delivered models that solved complex real-world healthcare problems. 
 
-I am highly skilled in developing EDI Applications, RCM Operation Automation, Data Interoperability and Healthcare Systems, Web Application Development, Webservices / APIs, Window services, and XSLT. 
+I am highly skilled in developing EDI Applications, RCM Operation Automation, Data Interoperability and Healthcare Systems, Web Application Development, Webservices / APIs, Windows services, and XSLT. 
 
 👉 Core Projects:
+⚙️ Microservice-based solution for seamless conversion between EDI and JSON formats.
+⚙️ Comprehensive crosswalk solution for converting between PDF and EDI formats across all claim types.
 ⚙️ AI Medical Billing Software Solution for Accurate and Simplified Billing
-⚙️Novelhealth.ai App 
-⚙️CureConnect EDI Innovation Clearing House
-⚙️Cure MD Electronic Health Record (EHR) System (Award Winning Product)
+⚙️ Novelhealth.ai App 
+⚙️ CureConnect EDI Innovation Clearing House
+⚙️ CureMD Electronic Health Record (EHR) System (Award Winning Product)
 
 👉 Technical Tools: 
 Languages: C/C++, C#, CLIPS, XML, SQL, JAVA/JAVASCRIPT, JQUERY, REACT, CSS, HTML
